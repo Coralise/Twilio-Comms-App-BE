@@ -87,3 +87,5 @@ public/
 
 credentials.json
 token.json
+
+./uploads
